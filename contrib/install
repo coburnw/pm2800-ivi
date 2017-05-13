@@ -1,0 +1,7 @@
+#add 'from .philipsPM2811 import philipsPM2811' to contrib/__init__.py
+
+cp philipsBaseDCPwr.py ../../python-ivi/ivi/contrib
+cp philipsPM2800.py ../../python-ivi/ivi/contrib
+cp philipsPM2810.py ../../python-ivi/ivi/contrib
+cp philipsPM2811.py ../../python-ivi/ivi/contrib
+cp philipsPM2830.py ../../python-ivi/ivi/contrib
